@@ -1,0 +1,29 @@
+{
+  "name": "helloworldjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookywooky/helloworldjs.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "riana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookywooky/helloworldjs/issues"
+  },
+  "homepage": "https://github.com/brookywooky/helloworldjs#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
